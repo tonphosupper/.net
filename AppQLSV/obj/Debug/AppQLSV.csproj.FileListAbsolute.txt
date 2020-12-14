@@ -1,0 +1,17 @@
+D:\HK1-Nam4\.Net\source\repos\Nhom1\AppQLSV\bin\Debug\AppQLSV.exe.config
+D:\HK1-Nam4\.Net\source\repos\Nhom1\AppQLSV\bin\Debug\AppQLSV.exe
+D:\HK1-Nam4\.Net\source\repos\Nhom1\AppQLSV\bin\Debug\AppQLSV.pdb
+D:\HK1-Nam4\.Net\source\repos\Nhom1\AppQLSV\obj\Debug\AppQLSV.csprojAssemblyReference.cache
+D:\HK1-Nam4\.Net\source\repos\Nhom1\AppQLSV\obj\Debug\AppQLSV.GUI.frmLopChiTiet.resources
+D:\HK1-Nam4\.Net\source\repos\Nhom1\AppQLSV\obj\Debug\AppQLSV.Form1.resources
+D:\HK1-Nam4\.Net\source\repos\Nhom1\AppQLSV\obj\Debug\AppQLSV.Properties.Resources.resources
+D:\HK1-Nam4\.Net\source\repos\Nhom1\AppQLSV\obj\Debug\AppQLSV.csproj.GenerateResource.cache
+D:\HK1-Nam4\.Net\source\repos\Nhom1\AppQLSV\obj\Debug\AppQLSV.csproj.CoreCompileInputs.cache
+D:\HK1-Nam4\.Net\source\repos\Nhom1\AppQLSV\obj\Debug\AppQLSV.exe
+D:\HK1-Nam4\.Net\source\repos\Nhom1\AppQLSV\obj\Debug\AppQLSV.pdb
+D:\HK1-Nam4\.Net\source\repos\Nhom1\AppQLSV\bin\Debug\EntityFramework.dll
+D:\HK1-Nam4\.Net\source\repos\Nhom1\AppQLSV\bin\Debug\EntityFramework.SqlServer.dll
+D:\HK1-Nam4\.Net\source\repos\Nhom1\AppQLSV\bin\Debug\EntityFramework.xml
+D:\HK1-Nam4\.Net\source\repos\Nhom1\AppQLSV\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK1-Nam4\.Net\source\repos\Nhom1\AppQLSV\obj\Debug\AppQLSV.csproj.CopyComplete
+D:\HK1-Nam4\.Net\source\repos\Nhom1\AppQLSV\obj\Debug\AppQLSV.GUI.frmSvChiTiet.resources
